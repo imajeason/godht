@@ -16,8 +16,8 @@ import (
 )
 
 var BootstrapNodes = []string{
-	"67.215.246.10:6881",
-	"212.129.33.59:6881",
+	"tracker.fortu.io:6969",
+	"ns-1.x-fins.com:6969",
 	"82.221.103.244:6881",
 }
 
