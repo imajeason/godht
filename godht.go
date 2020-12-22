@@ -12,10 +12,13 @@ import (
 
 	"golang.org/x/time/rate"
 
-	"github.com/ForkChange/bencode"
+	"github.com/imajeason/bencode"
 )
 
 var BootstrapNodes = []string{
+	"udp://explodie.org:6969/announce",
+	"udp://exodus.desync.com:6969/announce",
+        "udp://explodie.org:6969/announce",
 	"router.bittorrent.com:6881",
 	"dht.transmissionbt.com:6881",
 	"router.utorrent.com:6881",
