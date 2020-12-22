@@ -4,7 +4,7 @@ A very simple and fast DHT crawler in Golang.
 
 ## Install
 ```bash
-go get github.com/fanpei91/godht
+go get github.com/imajeason/godht
 ```
 
 ## Usage
