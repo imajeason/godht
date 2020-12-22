@@ -16,12 +16,9 @@ import (
 )
 
 var BootstrapNodes = []string{
-	"udp://explodie.org:6969/announce",
-	"udp://exodus.desync.com:6969/announce",
-        "udp://explodie.org:6969/announce",
-	"router.bittorrent.com:6881",
-	"dht.transmissionbt.com:6881",
-	"router.utorrent.com:6881",
+	"67.215.246.10:6881",
+	"212.129.33.59:6881",
+	"82.221.103.244:6881",
 }
 
 type nodeID []byte
