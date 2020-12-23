@@ -16,9 +16,9 @@ import (
 )
 
 var BootstrapNodes = []string{
-	"tracker.fortu.io:6969",
-	"ns-1.x-fins.com:6969",
-	"82.221.103.244:6881",
+	"67.215.246.10:6881",
+	"212.129.33.50:6881",
+	"82.221.103.244:6881"
 }
 
 type nodeID []byte
